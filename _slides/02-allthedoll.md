@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+Happy cherry blossom season!
 
 ![kimonotocat](https://octodex.github.com/images/kimonotocat.png)
 {: .center}

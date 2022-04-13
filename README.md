@@ -1,7 +1,7 @@
 # GitHub for Developers
 
 - Class Date: April 11-14, 2022
-- Facilitator: @allthedoll
+- Facilitator: @allthedoll :taco:
 
 ## Class Resources
 
